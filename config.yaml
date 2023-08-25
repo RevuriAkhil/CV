@@ -1,0 +1,9 @@
+path: /home/tachyon/Downloads/Face Detection.v21-yolov5s.yolov5pytorch
+
+train: train/images
+
+val: train/images
+
+names:
+  0: faces
+
